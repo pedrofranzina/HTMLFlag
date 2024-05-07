@@ -1,0 +1,12 @@
+table{
+    padding: 20px;
+}
+table thead{
+    background-color: white;
+}
+table tbody tr:nth-of-type(odd){
+    background-color: #ededed;
+}
+table tbody tr:nth-of-type(even){
+    background-color: white;
+}
