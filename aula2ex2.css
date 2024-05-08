@@ -10,3 +10,19 @@ table tbody tr:nth-of-type(odd){
 table tbody tr:nth-of-type(even){
     background-color: white;
 }
+table{
+    border-collapse: collapse;
+}
+td{
+    padding: 14px;
+    font-weight: bold;
+}
+th{
+    padding: 10px;
+    text-align: left;
+    color: gray;
+}
+div{
+    border-bottom: 1px dotted #000;
+    text-decoration: none;
+}
